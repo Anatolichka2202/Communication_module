@@ -1,0 +1,5 @@
+set(__QT_DEPLOY_TARGET_CommunicationLib_FILE C:/qt_repos_2/PPB_Modules/PPBCommunicationLib/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/libCommunicationLib.a)
+set(__QT_DEPLOY_TARGET_CommunicationLib_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_test_runner_FILE C:/qt_repos_2/PPB_Modules/PPBCommunicationLib/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/test_runner.exe)
+set(__QT_DEPLOY_TARGET_test_runner_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_test_runner_RUNTIME_DLLS C:/Qt/6.8.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.8.0/mingw_64/bin/Qt6Core.dll)
