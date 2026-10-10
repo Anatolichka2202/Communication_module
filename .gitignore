@@ -13,7 +13,6 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 CTestTestfile.cmake
-*.cmake
 !CMakeLists.txt
 
 # Объектные и исполняемые файлы
@@ -29,7 +28,14 @@ moc_*.h
 qrc_*.cpp
 ui_*.h
 *.moc
-*.qrc
 *.qm
 *.qmlc
 *.jsc
+
+# Local build output and personal IDE state
+build-*/
+cmake-build-*/
+*.user.*
+__pycache__/
+*.py[cod]
+.qtc_clangd/
